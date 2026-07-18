@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Nicolas%20Agust%C3%ADn%20Raizman&fontSize=60&animation=twinkling&fontAlignY=40" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=bashie&fontSize=60&animation=twinkling&fontAlignY=40" alt="header" />
 </p>
 
 <h3 align="center">
