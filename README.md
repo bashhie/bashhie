@@ -1,17 +1,19 @@
-<h1 align="center">Nicolas Agustín Raizman</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&lines=Nicolas+Agust%C3%ADn+Raizman;Red+Team+Operator;Security+Researcher;Bash+Scripting+Pro;Three.js+Developer" />
+</h1>
+
+<!-- Animated Matrix-style background / divider -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF00&center=true&lines=Red+Team+Operator;Bash+Automation+Specialist;Three.js+Developer;Cybersecurity+Researcher" />
+  <img src="https://raw.githubusercontent.com/Mayccoll/Gamer/master/Lines/llamas-lines-gif.gif" alt="divider" />
 </p>
 
+### 📟 Terminal Access
 ```bash
 nicolas@root:~$ whoami
-# Red Team Operator & Security Researcher based in Córdoba
-nicolas@root:~$ ls -l ./skills
-# -rwxr-xr-x  Cybersecurity/
-# -rwxr-xr-x  Bash-Automation/
-# -rwxr-xr-x  Three.js/
-# -rwxr-xr-x  Medical-Student/
-
-nicolas@root:~$ cat status.log
-[+] Status: Aggressively learning and building.
-[+] Focus: Offensive Security, Network Recon, and UI Engineering.
+nicolas-raizman
+nicolas@root:~$ ./initialize_profile.sh
+[INFO] Loading modules...
+[OK] Cybersecurity Protocols: Loaded
+[OK] Bash Automation: Initialized
+[OK] UI/UX & 3D Engineering: Active
+[OK] Red Team Framework: Deployed
