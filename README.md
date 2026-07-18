@@ -1,50 +1,86 @@
-<!-- Header: High-Impact Visual -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Nicolas+Agust%C3%ADn+Raizman&fontSize=60&animation=twinkling&fontAlignY=40&desc=Red+Team+Operator+%7C+Bash+Specialist+%7C+Aspiring+Surgeon&descAlignY=65" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Nicolas%20Agust%C3%ADn%20Raizman&fontSize=60&animation=twinkling&fontAlignY=40" alt="header" />
 </p>
 
-<!-- Terminal Execution Start -->
+<h3 align="center">
+    <samp>
+        &gt; root@nicolas:~$ <b><a href="https://github.com/YOUR_GITHUB_USERNAME">whoami</a></b>
+    </samp>
+</h3>
+
 <p align="center">
-  <samp>
-    <b>nicolas@root:~$</b> ./init_security_protocol.sh
-  </samp>
+<samp>
+「 Red Team Operator | Bash Automation Engineer | Aspiring General Surgeon 」  
+</samp>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=System+Access+Granted...;Building+Red+Team+Infrastructure;Automating+Recon+with+Bash;Researching+System+Vulnerabilities;Precision+Operations+in+Code+and+Surgery" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=900&lines=System+Reconnaissance+Active;Deploying+Bash+Payloads;Conducting+Vulnerability+Research;Precision+Surgery+in+Code;Bypassing+Digital+Perimeters" />
 </p>
 
-<!-- Divider -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mayccoll/Gamer/master/Lines/llamas-lines-gif.gif" width="100%" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2J1a3Q1cTB0MGg2d2p0Z3g2eTJpY3J3a3Rqd3VzdnE1a2l3a3ZrbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SWoSkN6DxTszqIKEqv/giphy.gif" width="450" alt="hacker-visual">
 </p>
 
-<!-- Section: The Digital Lab -->
-<h2 align="center">📟 Operation Core</h2>
+---
+
+<h2 align="center">📟 Terminal Access Modules</h2>
+
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME?tab=repositories">
-    <img src="https://img.shields.io/badge/RUN-SECURITY_SCAN-red?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  </a>
+  <img src="https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake.svg" alt="snake-animation" />
 </p>
 
-<div align="center">
-  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
+<table align="center" border="0" cellspacing="20">
+<tr>
+  <td align="center"><img src="https://img.shields.io/badge/BASH-Automation-00FF00?style=for-the-badge&logo=gnu-bash&logoColor=black"/></td>
+  <td align="center"><img src="https://img.shields.io/badge/RED_TEAM-Offensive_Sec-FF0000?style=for-the-badge&logo=securityscorecard&logoColor=white"/></td>
+  <td align="center"><img src="https://img.shields.io/badge/SURGERY-General_Surgical_Focus-4488FF?style=for-the-badge&logo=readthedocs&logoColor=white"/></td>
+</tr>
+</table>
 
-<!-- Section: Stats & Vitals -->
-<h2 align="center">📊 Vital Statistics</h2>
+---
+
+<h2 align="center">🛠 Arsenal & System Specs</h2>
+
+<table align="center" border="0" cellspacing="10">
+<tr>
+  <td width="300" valign="top" align="center">
+    <h3>Cyber Security</h3>
+    <img src="https://skillicons.dev/icons?i=linux,vim,kali,git" />
+  </td>
+  <td width="300" valign="top" align="center">
+    <h3>Automations</h3>
+    <img src="https://skillicons.dev/icons?i=bash,python,docker,kubernetes" />
+  </td>
+</tr>
+</table>
+
+---
+
+<h2 align="center">📊 Real-Time Vitals</h2>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" />
 </p>
 
-<!-- Section: Technologies -->
-<h2 align="center">🛠 Arsenal</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=bash,linux,python,vim,github,docker,threejs" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=SYSTEM+ACCESS+COUNT&color=00FF00&style=flat-square" />
 </p>
 
-<!-- Footer -->
+---
+
+<h2 align="center">📫 Secure Channel</h2>
+
+<p align="center">
+  <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-Profile-white?style=for-the-badge&logo=github"></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-Secure_Comm-red?style=for-the-badge&logo=gmail"></a>
+</p>
+
+<p align="center">
+  <i>"Precision in code, precision in surgery."</i>
+</p>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100" />
 </p>
