@@ -4,13 +4,13 @@
 
 <h3 align="center">
     <samp>
-        &gt; root@nicolas:~$ <b><a href="https://github.com/YOUR_GITHUB_USERNAME">whoami</a></b>
+        &gt; root@bashie:~$ <b><a href="https://github.com/bashhie">whoami</a></b>
     </samp>
 </h3>
 
 <p align="center">
 <samp>
-「 Red Team Operator | Bash Automation Engineer | Aspiring General Surgeon 」  
+「 Red Team Operator 」  
 </samp>
 </p>
 
@@ -27,7 +27,7 @@
 <h2 align="center">📟 Terminal Access Modules</h2>
 
 <p align="center">
-  <img src="https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake.svg" alt="snake-animation" />
+  <img src="https://github.com/bashhie/bashhie/blob/output/github-contribution-grid-snake.svg" alt="snake-animation" />
 </p>
 
 <table align="center" border="0" cellspacing="20">
@@ -60,12 +60,12 @@
 <h2 align="center">📊 Real-Time Vitals</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bashhie&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bashhie&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=SYSTEM+ACCESS+COUNT&color=00FF00&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=bashhie&label=SYSTEM+ACCESS+COUNT&color=00FF00&style=flat-square" />
 </p>
 
 ---
@@ -73,7 +73,7 @@
 <h2 align="center">📫 Secure Channel</h2>
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-Profile-white?style=for-the-badge&logo=github"></a>
+  <a href="https://github.com/bashhie"><img src="https://img.shields.io/badge/GitHub-Profile-white?style=for-the-badge&logo=github"></a>
   <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-Secure_Comm-red?style=for-the-badge&logo=gmail"></a>
 </p>
 
