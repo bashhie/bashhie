@@ -18,10 +18,6 @@
   <a href="https://github.com/bashhie/bashhie"><img src="https://raw.githubusercontent.com/Mayccoll/Gamer/master/Lines/llamas-lines-gif.gif" width="100%" /></a>
 </p>
 
-<p align="center">
-  <img src="https://github.com/bashhie/bashhie/blob/output/github-contribution-grid-snake.svg" alt="snake-animation" />
-</p>
-
 <!-- 4. DYNAMIC VITAL TABLE (Enhanced with Shadcn-like styling) -->
 <table align="center" border="0" cellspacing="10" style="background:rgba(0,0,0,0.5); padding:15px; border-radius:10px;">
   <tr>
