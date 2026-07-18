@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&lines=Nicolas+Agust%C3%ADn+Raizman;Red+Team+Operator;Security+Researcher;Bash+Scripting+Pro;Three.js+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&lines=bashhie;Red+Team+Operator;Security+Researcher;Bash+Scripting+Pro;Three.js+Developer" />
 </h1>
 
 <!-- Animated Matrix-style background / divider -->
